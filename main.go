@@ -15,10 +15,10 @@ import (
 )
 
 const (
-	AUTH0_API_CLIENT_SECRET = `E5ndDj5dyzt8ITxySi41Bhc-tkfxCdZagOzS8fHvyxpys1pGLjOhohpQqU7qGD0M`
-	AUTH0_CLIENT_ID         = `CAc8adGXJDu0CmOxIZtRJKm4ffBTEXSE`
-	AUTH0_DOMAIN            = `dev-ukkow86e.us.auth0.com`
-	AUTH0_API_AUDIENCE      = `http://jokeish-app`
+	AUTH0_API_CLIENT_SECRET = ``
+	AUTH0_CLIENT_ID         = ``
+	AUTH0_DOMAIN            = ``
+	AUTH0_API_AUDIENCE      = ``
 )
 
 type Jwks struct {
